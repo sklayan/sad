@@ -1,0 +1,12 @@
+{
+  "name": "book-download-site",
+  "version": "1.0.0",
+  "description": "图书下载站",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "mongodb": "^5.0.0",
+    "bcryptjs": "^2.4.3"
+  }
+}
